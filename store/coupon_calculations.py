@@ -1,3 +1,12 @@
+"""
+Program: coupon_calculations.py
+Author: Jacob Sharpe
+Last date modified: 6/10/2020
+
+The purpose of this program is to tests calculations using
+if and elif statments
+"""
+
 def calculate_price(price, cash_coupon, percent_coupon):
     result1 = 0
     result2 = 0
